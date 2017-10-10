@@ -1,0 +1,6 @@
+Ejesde rotación:
+- 1 eje que pasa por el centro de átomo de azufre formando un ángulo idéntico respecto a cada uno de los átomo
+de hidrógeno.
+
+Planos de reflexión:
+- 2 planos, uno paralelo y el otro normal al plano en el que se encuentra la molécula.

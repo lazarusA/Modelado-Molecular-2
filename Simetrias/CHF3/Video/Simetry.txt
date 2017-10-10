@@ -1,0 +1,6 @@
+Ejes de rotación:
+- 1 eje que pasa por el centro del átomo de carbono e hidrógeno formando un ángulo idéntico respecto a cada uno de los 
+átomos de fluor
+
+Planos de reflexión:
+- 3 planos, los planos que forman cada uno de los átomos de fluor con el carbono y el hidrógeno.

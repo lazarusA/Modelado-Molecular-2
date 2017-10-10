@@ -1,0 +1,11 @@
+HEADER    UNCLASSIFIED                            07-Oct-17
+TITLE     ALL ATOM STRUCTURE FOR MOLECULE HYP                                   
+AUTHOR    GROMOS AUTOMATIC TOPOLOGY BUILDER REVISION 2017-07-03 14:53:07
+AUTHOR   2  http://compbio.biosci.uq.edu.au/atb
+HETATM    1   Cl SWAG    0       7.785   4.272 -20.588  1.00  0.00          Cl
+HETATM    2   O1 SWAG    0       8.490   5.172 -21.768  1.00  0.00           O
+HETATM    3   H1 SWAG    0       8.321   6.103 -21.606  1.00  0.00           H
+CONECT    1    2
+CONECT    2    1    3
+CONECT    3    2
+END

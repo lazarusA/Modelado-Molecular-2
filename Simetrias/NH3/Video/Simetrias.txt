@@ -1,0 +1,6 @@
+Ejes de rotación:
+- 1 eje que pasa por el centro de átomo de nitrógeno formando un ángulo idéntico respecto a cada uno de los átomo
+de hidrógeno.
+
+Planos de reflexión:
+- 3 planos, los planos que forma cada uno de los átomos de hidrógeno con el nitrógeno.
